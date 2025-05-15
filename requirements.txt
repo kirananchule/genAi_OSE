@@ -1,0 +1,20 @@
+# Core Libraries
+google-generativeai
+langchain
+langchain-google-genai
+chromadb
+sentence-transformers
+langchain-community
+langchain-huggingface
+
+# Data Processing
+pandas
+beautifulsoup4
+requests
+
+# UI
+streamlit
+
+# Utilities
+python-dotenv
+numpy
